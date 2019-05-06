@@ -1,5 +1,8 @@
 package ljy;
 
 public class test {
-System.out.println(64);
+public static void main(String[] args) {
+
+	System.out.println(64);
+}
 }
